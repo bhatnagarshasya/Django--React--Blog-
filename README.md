@@ -1,5 +1,5 @@
 # Cloud Deployment URL
-https://django-react-blog-hiey.vercel.app/profile
+https://django-react-blog-hiey.vercel.app/
 
 
 # react-django-blog-app
