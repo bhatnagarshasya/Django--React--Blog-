@@ -1,9 +1,10 @@
-# react-django-blog-app
-
 # Cloud Deployment URL
 https://django-react-blog-hiey.vercel.app/profile
 
 
+# react-django-blog-app
+
+# Local Deployment  
 
 ## Technologies
 1. React
