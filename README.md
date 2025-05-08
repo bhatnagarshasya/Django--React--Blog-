@@ -1,5 +1,10 @@
 # react-django-blog-app
 
+# Cloud Deployment URL
+https://django-react-blog-hiey.vercel.app/profile
+
+
+
 ## Technologies
 1. React
 2. Tailwind CSS
